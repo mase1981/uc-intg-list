@@ -693,6 +693,19 @@
       "driver_id": "matter_driver"
     },
     {
+      "id": "uc-intg-hubitat",
+      "name": "Hubitat",
+      "description": "Hubitat integration for Unfolded Circle Remotes",
+      "author": "Tommy Lapierre",
+      "repository": "https://github.com/tommy-lapierre/uc-intg-hubitat",
+      "categories": ["home-automation"],
+      "features": ["light", "switch", "climate", "sensor"],
+      "official": false,
+      "custom": true,
+      "supports_backup": false,
+      "driver_id": "uc-intg-hubitat"
+    },
+    {
       "id": "uc-intg-hass",
       "name": "Home Assistant",
       "description": "Integration for the Home Assistant smart home platform",
