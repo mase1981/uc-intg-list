@@ -101,8 +101,7 @@
       "custom": true,
       "supports_backup": true,
       "backup_min_version": "1.0.1",
-      "driver_id": "psn_driver",
-      "migration_required_at": "1.1.0"
+      "driver_id": "psn_driver"
     },
     {
       "id": "uc-intg-samsungtv",
