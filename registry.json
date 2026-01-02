@@ -471,6 +471,19 @@
       "driver_id": "uc-intg-xbox_live"
     },
     {
+      "id": "uc-intg-nadav",
+      "name": "NAD A/V",
+      "description": "Integration for NAD A/V receivers and amplifiers",
+      "author": "Meir Miyara",
+      "repository": "https://github.com/mase1981/uc-intg-nadav",
+      "categories": ["av-receiver"],
+      "features": ["media_player"],
+      "official": false,
+      "custom": true,
+      "supports_backup": true,
+      "driver_id": "nadav"
+    },
+    {
       "id": "integration-kodi",
       "name": "Kodi",
       "description": "Kodi integration for Unfolded Circle Remotes",
