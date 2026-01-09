@@ -493,7 +493,7 @@
       "features": ["media_player"],
       "official": false,
       "custom": true,
-      "supports_backup": true,
+      "supports_backup": false,
       "driver_id": "firetv"
     },
     {
@@ -506,7 +506,7 @@
       "features": ["media_player"],
       "official": false,
       "custom": true,
-      "supports_backup": true,
+      "supports_backup": false,
       "driver_id": "cambridge-audio"
     },
     {
@@ -519,7 +519,7 @@
       "features": ["media_player"],
       "official": false,
       "custom": true,
-      "supports_backup": true,
+      "supports_backup": false,
       "driver_id": "jellyfin"
     },
     {
@@ -532,7 +532,7 @@
       "features": ["light", "switch"],
       "official": false,
       "custom": true,
-      "supports_backup": true,
+      "supports_backup": false,
       "driver_id": "govee"
     },
     {
@@ -545,7 +545,7 @@
       "features": ["media_player"],
       "official": false,
       "custom": true,
-      "supports_backup": true,
+      "supports_backup": false,
       "driver_id": "vlcmedia"
     },
     {
