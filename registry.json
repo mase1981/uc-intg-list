@@ -549,6 +549,19 @@
       "driver_id": "vlcmedia"
     },
     {
+      "id": "uc-intg-lyngdorf",
+      "name": "Lyngdorf",
+      "description": "Lyngdorf processor/amplifier integration",
+      "author": "jsoutter",
+      "repository": "https://github.com/jsoutter/uc-intg-lyngdorf",
+      "categories": ["av-receiver"],
+      "features": ["media_player", "remote", "sensor"],
+      "official": false,
+      "custom": true,
+      "supports_backup": true,
+      "driver_id": "lyngdorf"
+    },
+    {
       "id": "integration-kodi",
       "name": "Kodi",
       "description": "Kodi integration for Unfolded Circle Remotes",
