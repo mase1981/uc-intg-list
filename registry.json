@@ -548,6 +548,7 @@
       "supports_backup": false,
       "driver_id": "vlcmedia"
     },
+    {
       "id": "uc-intg-panasonicviera",
       "name": "Panasonic Viera",
       "description": "Integration for Panasonic Viera TVs",
