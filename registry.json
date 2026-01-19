@@ -560,7 +560,20 @@
       "custom": true,
       "supports_backup": true,
       "driver_id": "panasonicviera"
-    },    
+    },
+    {
+      "id": "uc-intg-arcam",
+      "name": "Arcam FMJ",
+      "description": "Integration for Panasonic Arcam FMJ Devices",
+      "author": "Meir Miyara",
+      "repository": "https://github.com/mase1981/uc-intg-arcam",
+      "categories": ["media-player"],
+      "features": ["media_player"],
+      "official": false,
+      "custom": true,
+      "supports_backup": true,
+      "driver_id": "arcam"
+    }
     {
       "id": "uc-intg-lyngdorf",
       "name": "Lyngdorf",
