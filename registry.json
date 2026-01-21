@@ -554,8 +554,8 @@
       "description": "Integration for Panasonic Viera TVs",
       "author": "Meir Miyara",
       "repository": "https://github.com/mase1981/uc-intg-panasonicviera",
-      "categories": ["media-player","tv"],
-      "features": ["media_player","remote"],
+      "categories": ["media-player", "tv"],
+      "features": ["media_player", "remote"],
       "official": false,
       "custom": true,
       "supports_backup": true,
@@ -573,7 +573,7 @@
       "custom": true,
       "supports_backup": true,
       "driver_id": "arcam"
-    }
+    },
     {
       "id": "uc-intg-lyngdorf",
       "name": "Lyngdorf",
