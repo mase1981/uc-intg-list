@@ -564,7 +564,7 @@
     {
       "id": "uc-intg-arcam",
       "name": "Arcam FMJ",
-      "description": "Integration for Panasonic Arcam FMJ Devices",
+      "description": "Integration for Arcam FMJ Devices",
       "author": "Meir Miyara",
       "repository": "https://github.com/mase1981/uc-intg-arcam",
       "categories": ["media-player"],
@@ -573,6 +573,19 @@
       "custom": true,
       "supports_backup": true,
       "driver_id": "arcam"
+    },
+    {
+      "id": "uc-intg-monoprice-htp1",
+      "name": "monoprice HTP-1",
+      "description": "Integration for monoprice HTP-1 AV Processor",
+      "author": "Meir Miyara",
+      "repository": "https://github.com/mase1981/uc-intg-monoprice-htp1",
+      "categories": ["media-player","remote"],
+      "features": ["media_player","remote","sensor"],
+      "official": false,
+      "custom": true,
+      "supports_backup": true,
+      "driver_id": "monoprice_htp1"
     },
     {
       "id": "uc-intg-lyngdorf",
