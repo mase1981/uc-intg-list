@@ -588,6 +588,19 @@
       "driver_id": "monoprice_htp1"
     },
     {
+      "id": "uc-intg-octoprint",
+      "name": "Octoprint",
+      "description": "Control and Monitor 3D printers via Octoprint",
+      "author": "Meir Miyara",
+      "repository": "https://github.com/mase1981/uc-intg-octoprint",
+      "categories": ["media-player","remote", "sensor"],
+      "features": ["media_player","remote","sensor"],
+      "official": false,
+      "custom": true,
+      "supports_backup": true,
+      "driver_id": "octoprint"
+    },    
+    {
       "id": "uc-intg-lyngdorf",
       "name": "Lyngdorf",
       "description": "Lyngdorf processor/amplifier integration",
@@ -1043,6 +1056,11 @@
       "name": "Covers & Shades",
       "description": "Motorized blinds, shades, and screens"
     },
+    {
+      "id": "sensor",
+      "name": "Information Input and Output",
+      "description": "Input Sensors, Output Sensors, Information Data"
+    },    
     {
       "id": "remote",
       "name": "Remote Control",
