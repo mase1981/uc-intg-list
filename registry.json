@@ -601,6 +601,19 @@
       "driver_id": "octoprint"
     },
     {
+      "id": "uc-intg-eversolo",
+      "name": "Octoprint",
+      "description": "Control eversolo devices",
+      "author": "Meir Miyara",
+      "repository": "https://github.com/mase1981/uc-intg-eversolo",
+      "categories": ["media-player", "button"],
+      "features": ["media_player", "button"],
+      "official": false,
+      "custom": true,
+      "supports_backup": true,
+      "driver_id": "eversolo"
+    },    
+    {
       "id": "uc-intg-lyngdorf",
       "name": "Lyngdorf",
       "description": "Lyngdorf processor/amplifier integration",
@@ -1061,6 +1074,11 @@
       "name": "Information Input and Output",
       "description": "Input Sensors, Output Sensors, Information Data"
     },
+    {
+      "id": "button",
+      "name": "Input Output Buttons",
+      "description": "Output Buttons, Source Output"
+    },    
     {
       "id": "remote",
       "name": "Remote Control",
