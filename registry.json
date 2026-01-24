@@ -589,8 +589,8 @@
     },
     {
       "id": "uc-intg-octoprint",
-      "name": "Octoprint",
-      "description": "Control and Monitor 3D printers via Octoprint",
+      "name": "OctoPrint",
+      "description": "Control and Monitor 3D printers via OctoPrint",
       "author": "Meir Miyara",
       "repository": "https://github.com/mase1981/uc-intg-octoprint",
       "categories": ["media-player", "remote", "sensor"],
@@ -602,8 +602,8 @@
     },
     {
       "id": "uc-intg-eversolo",
-      "name": "eversolo",
-      "description": "Control eversolo devices",
+      "name": "Eversolo",
+      "description": "Control Eversolo devices",
       "author": "Meir Miyara",
       "repository": "https://github.com/mase1981/uc-intg-eversolo",
       "categories": ["media-player", "button"],
@@ -615,8 +615,8 @@
     },
     {
       "id": "uc-intg-bluesound",
-      "name": "bluesound",
-      "description": "Control bluesound devices",
+      "name": "Bluesound",
+      "description": "Control Bluesound devices",
       "author": "Meir Miyara",
       "repository": "https://github.com/mase1981/uc-intg-bluesound",
       "categories": ["media-player", "remote"],
