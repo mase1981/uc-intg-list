@@ -589,8 +589,8 @@
     },
     {
       "id": "uc-intg-octoprint",
-      "name": "Octoprint",
-      "description": "Control and Monitor 3D printers via Octoprint",
+      "name": "OctoPrint",
+      "description": "Control and Monitor 3D printers via OctoPrint",
       "author": "Meir Miyara",
       "repository": "https://github.com/mase1981/uc-intg-octoprint",
       "categories": ["media-player", "remote", "sensor"],
@@ -599,6 +599,32 @@
       "custom": true,
       "supports_backup": true,
       "driver_id": "octoprint"
+    },
+    {
+      "id": "uc-intg-eversolo",
+      "name": "Eversolo",
+      "description": "Control Eversolo devices",
+      "author": "Meir Miyara",
+      "repository": "https://github.com/mase1981/uc-intg-eversolo",
+      "categories": ["media-player", "button"],
+      "features": ["media_player", "button"],
+      "official": false,
+      "custom": true,
+      "supports_backup": true,
+      "driver_id": "eversolo"
+    },
+    {
+      "id": "uc-intg-bluesound",
+      "name": "Bluesound",
+      "description": "Control Bluesound devices",
+      "author": "Meir Miyara",
+      "repository": "https://github.com/mase1981/uc-intg-bluesound",
+      "categories": ["media-player", "remote"],
+      "features": ["media_player", "remote", "sensor"],
+      "official": false,
+      "custom": true,
+      "supports_backup": true,
+      "driver_id": "bluesound"
     },
     {
       "id": "uc-intg-lyngdorf",
@@ -1058,8 +1084,13 @@
     },
     {
       "id": "sensor",
-      "name": "Information Input and Output",
-      "description": "Input Sensors, Output Sensors, Information Data"
+      "name": "Informational Sensors",
+      "description": "Device state data"
+    },
+    {
+      "id": "button",
+      "name": "Buttons",
+      "description": "Buttons to trigger actions"
     },
     {
       "id": "remote",
