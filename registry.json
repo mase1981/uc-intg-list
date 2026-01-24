@@ -602,7 +602,7 @@
     },
     {
       "id": "uc-intg-eversolo",
-      "name": "Octoprint",
+      "name": "eversolo",
       "description": "Control eversolo devices",
       "author": "Meir Miyara",
       "repository": "https://github.com/mase1981/uc-intg-eversolo",
@@ -612,6 +612,19 @@
       "custom": true,
       "supports_backup": true,
       "driver_id": "eversolo"
+    },
+    {
+      "id": "uc-intg-bluesound",
+      "name": "bluesound",
+      "description": "Control bluesound devices",
+      "author": "Meir Miyara",
+      "repository": "https://github.com/mase1981/uc-intg-bluesound",
+      "categories": ["media-player", "remote"],
+      "features": ["media_player", "remote", "sensor"],
+      "official": false,
+      "custom": true,
+      "supports_backup": true,
+      "driver_id": "bluesound"
     },    
     {
       "id": "uc-intg-lyngdorf",
