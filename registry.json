@@ -625,7 +625,7 @@
       "custom": true,
       "supports_backup": true,
       "driver_id": "bluesound"
-    },    
+    },
     {
       "id": "uc-intg-lyngdorf",
       "name": "Lyngdorf",
@@ -1084,14 +1084,14 @@
     },
     {
       "id": "sensor",
-      "name": "Information Input and Output",
-      "description": "Input Sensors, Output Sensors, Information Data"
+      "name": "Informational Sensors",
+      "description": "Device state data"
     },
     {
       "id": "button",
-      "name": "Input Output Buttons",
-      "description": "Output Buttons, Source Output"
-    },    
+      "name": "Buttons",
+      "description": "Buttons to trigger actions"
+    },
     {
       "id": "remote",
       "name": "Remote Control",
