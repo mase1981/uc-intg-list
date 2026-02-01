@@ -806,7 +806,8 @@
       "official": false,
       "custom": true,
       "supports_backup": false,
-      "driver_id": "adbtv-unfolded-circle"
+      "driver_id": "adbtv-unfolded-circle",
+      "asset_pattern": "-remote\\.tar\\.gz$"
     },
     {
       "id": "unfoldedcircle-oppo",
