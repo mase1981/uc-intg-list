@@ -127,7 +127,8 @@
       "features": ["media_player"],
       "official": false,
       "custom": true,
-      "supports_backup": false,
+      "supports_backup": true,
+      "backup_min_version": "1.0.0",
       "driver_id": "yamaha_avr_driver"
     },
     {
