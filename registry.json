@@ -481,7 +481,7 @@
       "features": ["media_player"],
       "official": false,
       "custom": true,
-      "supports_backup": false,
+      "supports_backup": true,
       "driver_id": "firetv"
     },
     {
