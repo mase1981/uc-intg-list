@@ -174,8 +174,8 @@
     },
     {
       "id": "uc-intg-bond",
-      "name": "BOND",
-      "description": "Custom integration to control your BOND smart devices via Unfolded Circle Remote",
+      "name": "Bond Bridge",
+      "description": "Custom integration to control your Bond smart bridge via Unfolded Circle Remote",
       "author": "Meir Miyara",
       "repository": "https://github.com/mase1981/uc-intg-bond",
       "categories": ["home-automation"],
@@ -239,7 +239,7 @@
     },
     {
       "id": "uc-intg-heos",
-      "name": "HEOS",
+      "name": "Denon HEOS",
       "description": "Denon HEOS multi-room audio integration",
       "author": "Meir Miyara",
       "repository": "https://github.com/mase1981/uc-intg-heos",
@@ -266,7 +266,7 @@
     {
       "id": "uc-intg-htpc",
       "name": "HTPC",
-      "description": "HTPC System Monitor & Controls Integration for Unfolded Circle Remote Two/3",
+      "description": "HTPC System Monitor & Controls Integration",
       "author": "Meir Miyara",
       "repository": "https://github.com/mase1981/uc-intg-htpc",
       "categories": ["media-player"],
@@ -318,7 +318,7 @@
     {
       "id": "uc-intg-naim",
       "name": "Naim Audio",
-      "description": "A Naim Audio Media Player and Remote Integration for Unfolded Circle Remote",
+      "description": "A Naim Audio Media Player and Remote Integration",
       "author": "Meir Miyara",
       "repository": "https://github.com/mase1981/uc-intg-naim",
       "categories": ["media-player", "audio"],
@@ -343,8 +343,8 @@
     },
     {
       "id": "uc-intg-rvolution",
-      "name": "Rvolution",
-      "description": "Rvolution projector screen integration",
+      "name": "R_volution",
+      "description": "R_volution projector screen integration",
       "author": "Meir Miyara",
       "repository": "https://github.com/mase1981/uc-intg-rvolution",
       "categories": ["projector", "cover"],
@@ -459,19 +459,6 @@
       "driver_id": "uc-intg-xbox"
     },
     {
-      "id": "uc-intg-xbox-live",
-      "name": "Xbox Live",
-      "description": "Xbox Live service integration",
-      "author": "Meir Miyara",
-      "repository": "https://github.com/mase1981/uc-intg-xbox-live",
-      "categories": ["gaming"],
-      "features": ["sensor"],
-      "official": false,
-      "custom": true,
-      "supports_backup": false,
-      "driver_id": "uc-intg-xbox_live"
-    },
-    {
       "id": "uc-intg-nadav",
       "name": "NAD A/V",
       "description": "Integration for NAD A/V receivers and amplifiers",
@@ -500,7 +487,7 @@
     {
       "id": "uc-intg-cambridge-audio",
       "name": "Cambridge Audio",
-      "description": "Integration for cambridge-audio Devices",
+      "description": "Cambridge Audio device integration",
       "author": "Meir Miyara",
       "repository": "https://github.com/mase1981/uc-intg-cambridge-audio",
       "categories": ["media_player", "remote"],
@@ -512,8 +499,8 @@
     },
     {
       "id": "uc-intg-jellyfin",
-      "name": "jellyfin",
-      "description": "Integration for Jellyfin Server",
+      "name": "Jellyfin",
+      "description": "Jellyfin Server Integration",
       "author": "Meir Miyara",
       "repository": "https://github.com/mase1981/uc-intg-jellyfin",
       "categories": ["media-player"],
@@ -525,8 +512,8 @@
     },
     {
       "id": "uc-intg-govee",
-      "name": "govee",
-      "description": "Integration for govee Smart Devices",
+      "name": "Govee",
+      "description": "Govee Smart Device Integration",
       "author": "Meir Miyara",
       "repository": "https://github.com/mase1981/uc-intg-govee",
       "categories": ["home-automation"],
@@ -538,8 +525,8 @@
     },
     {
       "id": "uc-intg-vlcmedia",
-      "name": "vlcmedia",
-      "description": "Integration for vlcmedia Media Player",
+      "name": "VLC",
+      "description": "VLC Media Player Integration",
       "author": "Meir Miyara",
       "repository": "https://github.com/mase1981/uc-intg-vlcmedia",
       "categories": ["media-player"],
@@ -577,8 +564,8 @@
     },
     {
       "id": "uc-intg-monoprice-htp1",
-      "name": "monoprice HTP-1",
-      "description": "Integration for monoprice HTP-1 AV Processor",
+      "name": "Monoprice HTP-1",
+      "description": "Integration for Monoprice HTP-1 AV Processor",
       "author": "Meir Miyara",
       "repository": "https://github.com/mase1981/uc-intg-monoprice-htp1",
       "categories": ["media-player", "remote"],
