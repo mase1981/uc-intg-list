@@ -615,6 +615,19 @@
       "driver_id": "bluesound"
     },
     {
+      "id": "uc-intg-jblav",
+      "name": "JBL AV MA Recievers",
+      "description": "Control JBL MA Reciver devices",
+      "author": "Meir Miyara",
+      "repository": "https://github.com/mase1981/uc-intg-jblav",
+      "categories": ["media-player", "remote"],
+      "features": ["media_player", "remote", "sensor"],
+      "official": false,
+      "custom": true,
+      "supports_backup": true,
+      "driver_id": "jblav"
+    },
+    {
       "id": "uc-intg-lyngdorf",
       "name": "Lyngdorf",
       "description": "Lyngdorf processor/amplifier integration",
