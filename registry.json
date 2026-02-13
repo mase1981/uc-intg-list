@@ -834,7 +834,8 @@
       "features": ["media_player"],
       "official": false,
       "custom": true,
-      "supports_backup": false,
+      "supports_backup": true,
+      "backup_min_version": "0.8.0",
       "driver_id": "onkyo_avr"
     },
     {
