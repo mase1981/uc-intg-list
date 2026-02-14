@@ -484,6 +484,7 @@
       "official": false,
       "custom": true,
       "supports_backup": true,
+      "backup_min_version": "1.0.22",
       "driver_id": "firetv"
     },
     {
