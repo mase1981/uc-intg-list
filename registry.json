@@ -146,6 +146,20 @@
       "driver_id": "zwave_driver"
     },
     {
+      "id": "uc-intg-channels",
+      "name": "Channels DVR",
+      "description": "Channels integration for Remote Two/3",
+      "author": "Jack Powell",
+      "repository": "https://github.com/JackJPowell/uc-intg-channels",
+      "categories": ["media-player", "streaming"],
+      "features": ["media_player"],
+      "official": false,
+      "custom": true,
+      "supports_backup": true,
+      "backup_min_version": "0.1.2",
+      "driver_id": "channels_driver"
+    },
+    {
       "id": "uc-intg-manager",
       "name": "Integration Manager",
       "description": "Integration Manager for Unfolded Circle Remotes",
