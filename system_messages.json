@@ -27,6 +27,20 @@
       "title": "Backup before updates",
       "content": "<p>Prior to performing any updates, it is highly recommended to create a backup of your current configuration and data. You can do so by navigating to settings and clicking 'Export Backup File'. Then after you upgrade, you can import the backup file to restore your previous state.</p>",
       "priority": "high"
+    },
+    {
+      "id": "2026-002",
+      "date": "2026-02-06",
+      "title": "Orphaned IR Codesets Cleanup Tool Released",
+      "content": "<p>A new diagnostic tool has been released to help you identify and clean up orphaned IR codesets in your Remotes.</p><p>Visit the Diagnostics page to see if you have any orphaned IR codesets and learn more about this new feature and how it can help you maintain your integrations.</p>",
+      "priority": "normal"
+    },
+    {
+      "id": "2026-003",
+      "date": "2026-02-06",
+      "title": "Sort options in available integrations",
+      "content": "<p>New sort options are now available in the integrations list.</p><p>You can sort integrations by name, github stars, downloads, newest, and last updated to help you find what you need more easily.</p><p>Due to github API limitations, it will take up to 8 hours for the initial cache of github data to complete. </p>",
+      "priority": "normal"
     }
   ]
 }

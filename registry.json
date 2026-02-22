@@ -828,8 +828,8 @@
     },
     {
       "id": "uc-intg-onkyo-avr",
-      "name": "Onkyo AVR",
-      "description": "Onkyo AVR custom integration for Unfolded Circle Remotes",
+      "name": "Onkyo / Integra / Pioneer AVR",
+      "description": "Onkyo / Integra / Pioneer AVR custom integration for Unfolded Circle Remotes",
       "author": "Eddy McNut",
       "repository": "https://github.com/EddyMcNut/uc-intg-onkyo-avr",
       "categories": ["av-receiver"],
