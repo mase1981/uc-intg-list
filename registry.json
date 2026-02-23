@@ -852,7 +852,7 @@
       "custom": true,
       "supports_backup": true,
       "backup_min_version": "0.8.0",
-      "driver_id": "onkyo_avr"
+      "driver_id": "onkyo_avr_custom_driver"
     },
     {
       "id": "integration-dreambox",
