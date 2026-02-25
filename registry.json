@@ -390,10 +390,11 @@
       "author": "Meir Miyara",
       "repository": "https://github.com/mase1981/uc-intg-smartthings",
       "categories": ["home-automation"],
-      "features": ["light", "switch", "sensor"],
+      "features": ["light", "switch", "sensor","button"],
       "official": false,
       "custom": true,
-      "supports_backup": false,
+      "supports_backup": true,
+      "backup_min_version": "3.0.8",
       "driver_id": "smartthings"
     },
     {
