@@ -246,10 +246,11 @@
       "author": "Meir Miyara",
       "repository": "https://github.com/mase1981/uc-intg-hdfury",
       "categories": ["video-processor"],
-      "features": ["switch"],
+      "features": ["remote","sensor","select"],
       "official": false,
       "custom": true,
-      "supports_backup": false,
+      "supports_backup": true,
+      "backup_min_version": "1.1.1",
       "driver_id": "uc-intg-hdfury"
     },
     {
