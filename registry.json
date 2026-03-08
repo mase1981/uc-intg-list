@@ -647,6 +647,19 @@
       "driver_id": "jblav"
     },
     {
+      "id": "uc-intg-unifi",
+      "name": "Ubiquiti UniFi Network & Protect Controls",
+      "description": "Control Ubiquiti UniFi Network and Protect Devices",
+      "author": "Meir Miyara",
+      "repository": "https://github.com/mase1981/uc-intg-unifi",
+      "categories": ["media-player", "remote","security"],
+      "features": ["media_player", "remote", "sensor"],
+      "official": false,
+      "custom": true,
+      "supports_backup": true,
+      "driver_id": "unifi"
+    },
+    {
       "id": "uc-intg-lyngdorf",
       "name": "Lyngdorf",
       "description": "Lyngdorf processor/amplifier integration",
