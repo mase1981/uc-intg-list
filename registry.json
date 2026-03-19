@@ -176,7 +176,7 @@
     },
     {
       "id": "uc-intg-anthemav",
-      "name": "Anthem AV",
+      "name": "Anthem A/V Receivers",
       "description": "Anthem AV Receiver integration",
       "author": "Meir Miyara",
       "repository": "https://github.com/mase1981/uc-intg-anthemav",
@@ -791,7 +791,7 @@
     },
     {
       "id": "ucr2-integration-requests",
-      "name": "Requests (Network Multi Tool)",
+      "name": "HTTP requests, WoL & text over TCP",
       "description": "A network multi tool integration for Unfolded Circle Remotes",
       "author": "kennymc.c",
       "repository": "https://github.com/kennymc-c/ucr2-integration-requests",
