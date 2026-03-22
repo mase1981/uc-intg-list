@@ -456,11 +456,12 @@
       "description": "WiiM audio streamer integration",
       "author": "Meir Miyara",
       "repository": "https://github.com/mase1981/uc-intg-wiim",
-      "categories": ["media-player", "audio"],
+      "categories": ["media-player", "audio", "remote", "sensor"],
       "features": ["media_player"],
       "official": false,
       "custom": true,
-      "supports_backup": false,
+      "supports_backup": yes,
+      "backup_min_version": "2.0.0",
       "driver_id": "uc-intg-wiim"
     },
     {
