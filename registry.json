@@ -863,17 +863,46 @@
       "asset_pattern": "-remote\\.tar\\.gz$"
     },
     {
+      "id": "unfoldedcircle-electrolux",
+      "name": "Electrolux",
+      "description": "Integration for Electrolux Air Purifiers",
+      "author": "theodicean",
+      "repository": "https://github.com/henrikwidlund/unfoldedcircle-electrolux",
+      "categories": ["climate"],
+      "features": ["climate", "select", "sensor"],
+      "official": false,
+      "custom": true,
+      "supports_backup": false,
+      "driver_id": "electrolux-unfolded-circle",
+      "asset_pattern": "-remote\\.tar\\.gz$"
+    },
+    {
       "id": "unfoldedcircle-oppo",
       "name": "Oppo Blu-ray",
       "description": "Integration driver for the Oppo Blu-ray players",
       "author": "theodicean",
       "repository": "https://github.com/henrikwidlund/unfoldedcircle-oppo",
       "categories": ["media-player"],
-      "features": ["media_player", "remote"],
+      "features": ["media_player", "remote", "sensor"],
+      "official": false,
+      "custom": true,
+      "supports_backup": true,
+      "driver_id": "oppo-unfolded-circle",
+      "asset_pattern": "-remote\\.tar\\.gz$"
+    },
+    {
+      "id": "unfoldedcircle-monitor",
+      "name": "Remote System Monitor",
+      "description": "Integration for monitoring the remote's resource utilization and via sensors",
+      "author": "theodicean",
+      "repository": "https://github.com/henrikwidlund/unfoldedcircle-systemmonitor",
+      "categories": ["utility"],
+      "features": ["sensor"],
       "official": false,
       "custom": true,
       "supports_backup": false,
-      "driver_id": "oppo-unfolded-circle"
+      "driver_id": "monitor-unfolded-circle",
+      "asset_pattern": "-remote\\.tar\\.gz$"
     },
     {
       "id": "uc-intg-onkyo-avr",
