@@ -667,6 +667,19 @@
       "driver_id": "unifi"
     },
     {
+      "id": "uc-intg-eero",
+      "name": "Amazon eero Network Devices Integration",
+      "description": "eero Network Devices",
+      "author": "Meir Miyara",
+      "repository": "https://github.com/mase1981/uc-intg-eero",
+      "categories": ["utility"],
+      "features": ["button", "sensor"],
+      "official": false,
+      "custom": true,
+      "supports_backup": true,
+      "driver_id": "uc_eero"
+    },
+    {
       "id": "uc-intg-lyngdorf",
       "name": "Lyngdorf",
       "description": "Lyngdorf processor/amplifier integration",
