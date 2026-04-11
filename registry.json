@@ -1060,7 +1060,7 @@
       "custom": true,
       "supports_backup": true,
       "backup_min_version": "1.0.0",
-      "driver_id": "kaleidescape_driver"
+      "driver_id": "kaleidescape"
     },
     {
       "id": "uc-intg-trinnov",
@@ -1074,7 +1074,7 @@
       "custom": true,
       "supports_backup": true,
       "backup_min_version": "1.0.0",
-      "driver_id": "trinnov_driver"
+      "driver_id": "trinnov"
     },
     {
       "id": "uc-intg-lumagen",
@@ -1088,7 +1088,7 @@
       "custom": true,
       "supports_backup": true,
       "backup_min_version": "1.0.0",
-      "driver_id": "lumagen_driver"
+      "driver_id": "lumagen"
     }
   ],
   "categories": [
