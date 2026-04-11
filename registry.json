@@ -1089,6 +1089,48 @@
       "official": true,
       "supports_backup": false,
       "custom": false
+    },
+    {
+      "id": "uc-intg-kaleidescape",
+      "name": "Kaleidescape",
+      "description": "Integration for Kaleidescape devices",
+      "author": "John J Carey",
+      "repository": "https://github.com/johncarey70/uc-integration-kaleidescape",
+      "categories": ["media-player"],
+      "features": ["media_player", "remote", "sensor"],
+      "official": false,
+      "custom": true,
+      "supports_backup": true,
+      "backup_min_version": "1.0.0",
+      "driver_id": "kaleidescape"
+    },
+    {
+      "id": "uc-intg-trinnov",
+      "name": "Trinnov Altitude",
+      "description": "Integration for Trinnov Altitude devices",
+      "author": "John J Carey",
+      "repository": "https://github.com/johncarey70/uc-integration-trinnov",
+      "categories": ["media-player"],
+      "features": ["media_player", "remote", "sensor", "select"],
+      "official": false,
+      "custom": true,
+      "supports_backup": true,
+      "backup_min_version": "1.0.0",
+      "driver_id": "trinnov"
+    },
+    {
+      "id": "uc-intg-lumagen",
+      "name": "Lumagen Radiance Pro",
+      "description": "Integration for Lumagen Radiance Pro devices",
+      "author": "John J Carey",
+      "repository": "https://github.com/johncarey70/uc-integration-lumagen",
+      "categories": ["media-player"],
+      "features": ["media_player", "remote", "sensor"],
+      "official": false,
+      "custom": true,
+      "supports_backup": true,
+      "backup_min_version": "1.0.0",
+      "driver_id": "lumagen"
     }
   ],
   "categories": [
