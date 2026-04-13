@@ -208,10 +208,11 @@
       "author": "Meir Miyara",
       "repository": "https://github.com/mase1981/uc-intg-cctv",
       "categories": ["security"],
-      "features": ["sensor"],
+      "features": ["select"],
       "official": false,
       "custom": true,
-      "supports_backup": false,
+      "supports_backup": true,
+      "backup_min_version": "2.0.0",
       "driver_id": "uc-intg-cctv"
     },
     {
@@ -1213,6 +1214,11 @@
       "id": "button",
       "name": "Buttons",
       "description": "Buttons to trigger actions"
+    },
+    {
+      "id": "select",
+      "name": "select",
+      "description": "Select to trigger select function"
     },
     {
       "id": "remote",
