@@ -860,7 +860,8 @@
       "features": ["media_player", "remote"],
       "official": false,
       "custom": true,
-      "supports_backup": false,
+      "supports_backup": true,
+      "backup_min_version": "0.0.14",
       "driver_id": "adbtv-unfolded-circle",
       "asset_pattern": "-remote\\.tar\\.gz$"
     },
@@ -874,14 +875,15 @@
       "features": ["climate", "select", "sensor"],
       "official": false,
       "custom": true,
-      "supports_backup": false,
+      "supports_backup": true,
+      "backup_min_version": "0.0.4",
       "driver_id": "electrolux-unfolded-circle",
       "asset_pattern": "-remote\\.tar\\.gz$"
     },
     {
       "id": "unfoldedcircle-oppo",
-      "name": "Oppo Blu-ray",
-      "description": "Integration driver for the Oppo Blu-ray players",
+      "name": "Oppo/Magnetar Blu-ray Player",
+      "description": "Integration for the Oppo/Magnetar Blu-ray players",
       "author": "theodicean",
       "repository": "https://github.com/henrikwidlund/unfoldedcircle-oppo",
       "categories": ["media-player"],
@@ -889,6 +891,7 @@
       "official": false,
       "custom": true,
       "supports_backup": true,
+      "backup_min_version": "0.0.21",
       "driver_id": "oppo-unfolded-circle",
       "asset_pattern": "-remote\\.tar\\.gz$"
     },
@@ -902,7 +905,8 @@
       "features": ["sensor"],
       "official": false,
       "custom": true,
-      "supports_backup": false,
+      "supports_backup": true,
+      "backup_min_version": "0.0.5",
       "driver_id": "monitor-unfolded-circle",
       "asset_pattern": "-remote\\.tar\\.gz$"
     },
