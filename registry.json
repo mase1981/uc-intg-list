@@ -859,6 +859,7 @@
       "official": false,
       "custom": true,
       "supports_backup": true,
+      "backup_min_version": "0.0.14",
       "driver_id": "adbtv-unfolded-circle",
       "asset_pattern": "-remote\\.tar\\.gz$"
     },
@@ -873,6 +874,7 @@
       "official": false,
       "custom": true,
       "supports_backup": true,
+      "backup_min_version": "0.0.4",
       "driver_id": "electrolux-unfolded-circle",
       "asset_pattern": "-remote\\.tar\\.gz$"
     },
@@ -887,6 +889,7 @@
       "official": false,
       "custom": true,
       "supports_backup": true,
+      "backup_min_version": "0.0.21",
       "driver_id": "oppo-unfolded-circle",
       "asset_pattern": "-remote\\.tar\\.gz$"
     },
@@ -901,6 +904,7 @@
       "official": false,
       "custom": true,
       "supports_backup": true,
+      "backup_min_version": "0.0.5",
       "driver_id": "monitor-unfolded-circle",
       "asset_pattern": "-remote\\.tar\\.gz$"
     },
