@@ -175,7 +175,7 @@
       "driver_id": "intg_manager_driver",
       "min_compatible_version": "1.6.0",
       "bootstrapper_driver_id": "intg_bootstrapper_driver",
-      "bootstrapper_asset_pattern": "uc-intg-bootstrapper.*\\.tar\\.gz",
+      "bootstrapper_asset_pattern": "uc-intg-bootstrapper.*\\.tar\\.gz"
     },
     {
       "id": "uc-intg-anthemav",
