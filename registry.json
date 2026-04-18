@@ -170,9 +170,12 @@
       "official": false,
       "custom": true,
       "supports_backup": true,
-      "backup_min_version": "10.0.0",
+      "backup_min_version": "1.5.3",
       "self_managed": true,
-      "driver_id": "intg_manager_driver"
+      "driver_id": "intg_manager_driver",
+      "min_compatible_version": "1.6.0",
+      "bootstrapper_driver_id": "intg_bootstrapper_driver",
+      "bootstrapper_asset_pattern": "uc-intg-bootstrapper.*\\.tar\\.gz",
     },
     {
       "id": "uc-intg-anthemav",
