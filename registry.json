@@ -337,7 +337,8 @@
       "features": ["media_player"],
       "official": false,
       "custom": true,
-      "supports_backup": false,
+      "supports_backup": true,
+      "backup_min_version": "2.0.1",
       "driver_id": "uc_intg_yamaha_musiccast"
     },
     {
