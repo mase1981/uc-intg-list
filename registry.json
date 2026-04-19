@@ -481,10 +481,11 @@
       "author": "Meir Miyara",
       "repository": "https://github.com/mase1981/uc-intg-xbox",
       "categories": ["gaming"],
-      "features": ["media_player", "remote"],
+      "features": ["media_player", "remote","sensor"],
       "official": false,
       "custom": true,
-      "supports_backup": false,
+      "supports_backup": true,
+      "backup_min_version": "5.0.0",
       "driver_id": "uc-intg-xbox"
     },
     {
