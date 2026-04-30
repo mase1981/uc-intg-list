@@ -1249,11 +1249,12 @@
       "description": "IR and RF remote control integrations"
     }
   ],
-  "sponsors": [
+  "developers": [
     {
       "name": "Jack Powell",
       "description": "Help me sustain development of Unfolded Circle Remotes by becoming a sponsor!",
-      "links": {
+      "homepage": "https://www.github.com/jackjpowell",
+      "sponsorship_links": {
         "github": "jackjpowell",
         "buy_me_a_coffee": "https://www.buymeacoffee.com/jackpowell"
       }
