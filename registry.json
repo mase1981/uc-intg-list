@@ -982,6 +982,48 @@
       "driver_id": "uc-intg-hubitat"
     },
     {
+      "id": "uc-intg-kaleidescape",
+      "name": "Kaleidescape",
+      "description": "Integration for Kaleidescape devices",
+      "author": "John J Carey",
+      "repository": "https://github.com/johncarey70/uc-integration-kaleidescape",
+      "categories": ["media-player"],
+      "features": ["media_player", "remote", "sensor"],
+      "official": false,
+      "custom": true,
+      "supports_backup": true,
+      "backup_min_version": "1.0.0",
+      "driver_id": "kaleidescape"
+    },
+    {
+      "id": "uc-intg-trinnov",
+      "name": "Trinnov Altitude",
+      "description": "Integration for Trinnov Altitude devices",
+      "author": "John J Carey",
+      "repository": "https://github.com/johncarey70/uc-integration-trinnov",
+      "categories": ["media-player"],
+      "features": ["media_player", "remote", "sensor", "select"],
+      "official": false,
+      "custom": true,
+      "supports_backup": true,
+      "backup_min_version": "1.0.0",
+      "driver_id": "trinnov"
+    },
+    {
+      "id": "uc-intg-lumagen",
+      "name": "Lumagen Radiance Pro",
+      "description": "Integration for Lumagen Radiance Pro devices",
+      "author": "John J Carey",
+      "repository": "https://github.com/johncarey70/uc-integration-lumagen",
+      "categories": ["media-player"],
+      "features": ["media_player", "remote", "sensor"],
+      "official": false,
+      "custom": true,
+      "supports_backup": true,
+      "backup_min_version": "1.0.0",
+      "driver_id": "lumagen"
+    },
+    {
       "id": "uc-intg-hass",
       "name": "Home Assistant",
       "description": "Integration for the Home Assistant smart home platform",
@@ -1113,48 +1155,6 @@
       "official": true,
       "supports_backup": false,
       "custom": false
-    },
-    {
-      "id": "uc-intg-kaleidescape",
-      "name": "Kaleidescape",
-      "description": "Integration for Kaleidescape devices",
-      "author": "John J Carey",
-      "repository": "https://github.com/johncarey70/uc-integration-kaleidescape",
-      "categories": ["media-player"],
-      "features": ["media_player", "remote", "sensor"],
-      "official": false,
-      "custom": true,
-      "supports_backup": true,
-      "backup_min_version": "1.0.0",
-      "driver_id": "kaleidescape"
-    },
-    {
-      "id": "uc-intg-trinnov",
-      "name": "Trinnov Altitude",
-      "description": "Integration for Trinnov Altitude devices",
-      "author": "John J Carey",
-      "repository": "https://github.com/johncarey70/uc-integration-trinnov",
-      "categories": ["media-player"],
-      "features": ["media_player", "remote", "sensor", "select"],
-      "official": false,
-      "custom": true,
-      "supports_backup": true,
-      "backup_min_version": "1.0.0",
-      "driver_id": "trinnov"
-    },
-    {
-      "id": "uc-intg-lumagen",
-      "name": "Lumagen Radiance Pro",
-      "description": "Integration for Lumagen Radiance Pro devices",
-      "author": "John J Carey",
-      "repository": "https://github.com/johncarey70/uc-integration-lumagen",
-      "categories": ["media-player"],
-      "features": ["media_player", "remote", "sensor"],
-      "official": false,
-      "custom": true,
-      "supports_backup": true,
-      "backup_min_version": "1.0.0",
-      "driver_id": "lumagen"
     }
   ],
   "categories": [
@@ -1258,6 +1258,66 @@
         "github": "jackjpowell",
         "buy_me_a_coffee": "https://www.buymeacoffee.com/jackpowell"
       }
+    },
+    {
+      "name": "Meir Miyara",
+      "description": "",
+      "homepage": "https://www.github.com/mase1981",
+      "sponsorship_links": {}
+    },
+    {
+      "name": "jsoutter",
+      "description": "",
+      "homepage": "https://www.github.com/jsoutter",
+      "sponsorship_links": {}
+    },
+    {
+      "name": "albaintor",
+      "description": "",
+      "homepage": "https://www.github.com/albaintor",
+      "sponsorship_links": {}
+    },
+    {
+      "name": "kennymc.c",
+      "description": "",
+      "homepage": "https://www.github.com/kennymc.c",
+      "sponsorship_links": {}
+    },
+    {
+      "name": "petercv",
+      "description": "",
+      "homepage": "https://www.github.com/petercv",
+      "sponsorship_links": {}
+    },
+    {
+      "name": "theodicean",
+      "description": "",
+      "homepage": "https://www.github.com/theodicean",
+      "sponsorship_links": {}
+    },
+    {
+      "name": "Eddy McNut",
+      "description": "",
+      "homepage": "https://www.github.com/eddymcnut",
+      "sponsorship_links": {}
+    },
+    {
+      "name": "Dave8406",
+      "description": "",
+      "homepage": "https://www.github.com/Dave8406",
+      "sponsorship_links": {}
+    },
+    {
+      "name": "Tommy Lapierre",
+      "description": "",
+      "homepage": "https://www.github.com/tommy-lapierre",
+      "sponsorship_links": {}
+    },
+    {
+      "name": "John J Carey",
+      "description": "",
+      "homepage": "https://www.github.com/johncarey70",
+      "sponsorship_links": {}
     }
   ]
 }
