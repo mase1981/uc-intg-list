@@ -1297,8 +1297,10 @@
     {
       "name": "theodicean",
       "description": "",
-      "homepage": "https://www.github.com/theodicean",
-      "sponsorship_links": {}
+      "homepage": "https://github.com/henrikwidlund",
+      "sponsorship_links": {
+        "github": "henrikwidlund"
+      }
     },
     {
       "name": "Eddy McNut",
