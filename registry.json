@@ -917,7 +917,7 @@
     {
       "id": "unfoldedcircle-monitor",
       "name": "Remote System Monitor",
-      "description": "Integration for monitoring the remote's resource utilization and via sensors",
+      "description": "Integration for monitoring the remote's resource utilization via sensors",
       "author": "theodicean",
       "repository": "https://github.com/henrikwidlund/unfoldedcircle-systemmonitor",
       "categories": ["utility"],
