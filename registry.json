@@ -434,7 +434,8 @@
       "features": ["media_player"],
       "official": false,
       "custom": true,
-      "supports_backup": false,
+      "supports_backup": true,
+      "backup_min_version": "3.0.0",
       "driver_id": "spotify"
     },
     {
