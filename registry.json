@@ -703,6 +703,19 @@
       "driver_id": "uc_eero"
     },
     {
+      "id": "uc-intg-vidaa",
+      "name": "Hisense VIDAA Smart TVs",
+      "description": "Control Hisense VIDAA Smart TVs",
+      "author": "Meir Miyara",
+      "repository": "https://github.com/mase1981/uc-intg-vidaa",
+      "categories": ["media-player", "remote"],
+      "features": ["media_player", "remote", "sensor", "select"],
+      "official": false,
+      "custom": true,
+      "supports_backup": true,
+      "driver_id": "vidaa"
+    },
+    {
       "id": "uc-intg-lyngdorf",
       "name": "Lyngdorf",
       "description": "Lyngdorf processor/amplifier integration",
